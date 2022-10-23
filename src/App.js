@@ -6,8 +6,8 @@ import { Button } from "react-bootstrap";
 function App() {
   const inputElement = useRef();
   const HTMLRef = useRef();
-  const App_ID = "19430f88";
-  const App_KEY = "3cec4bf700d45fe28679e4c97f12740b";
+  const App_ID = "XXXXXX";
+  const App_KEY = "XXXXXXXXXXXXXXXXXX";
   const [item, setItem] = useState("pizza");
   const [infoRecipe, setInfoRecipe] = useState([]);
   const [Ingredients, setIngredients] = useState([]);
